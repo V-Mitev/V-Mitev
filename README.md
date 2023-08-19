@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vladimir Mitev
-- 👀 I’m interested in web programing
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning web development with C# and JavaScript
 - 📫 How to reach me vladimirmitev6969@gmail.com
